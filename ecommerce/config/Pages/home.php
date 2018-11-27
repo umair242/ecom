@@ -3,13 +3,14 @@
 return[
     'layout' => 'layouts.design',
     'headerCss' => [
-        'c1',
-        'c2',
-        'c3',
-        'c4',
-        'c5',
-        'c6',
-        'c7'        
+        'bootstrap.css',
+        'min.css',
+        'carousel.css',
+        'default.css',
+        'animate.css',
+        'styles.css',
+        'responsive.css'
+        
     ],
     'headerJs' => [
         'j1',
@@ -24,7 +25,7 @@ return[
         'j10'
       ],
     
-    'headsection' => [
+    'headSection' => [
         'head'
     ],
     'headersection' => [

@@ -52,8 +52,8 @@ class ViewCompilingController extends Controller {
         $this->viewData['finalHeaderJsData'] = $this->finalHeaderJsData;
         $this->viewData['finalFooterJsData'] = $this->finalFooterJsData;
         
-//        dd($pageConfig['layout']);
-//        return view($pageConfig['layout'], ['title' => 'my website']);
+//       dd($pageConfig['layout']);
+   //    return view($pageConfig['layout'], ['title' => 'my website']);
         return view($pageConfig['layout'], $this->viewData);
     }
 

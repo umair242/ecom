@@ -62,7 +62,7 @@
 	<!-- Footer -->
 
 	<footer class="footer">
-	 @foreach($footerSections as $footerSection)
+	  @foreach($footerSections as $footerSection)
                         @include("components.".$footerSection) 
                          @endforeach
 	</footer>
