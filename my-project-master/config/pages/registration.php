@@ -4,7 +4,7 @@ return [
     'layout' => 'layouts.design_Reg',
     
     'headerCss' => [
-        'boot',
+       // 'boot',
       //  'response',
         'font',
         'owl_c',

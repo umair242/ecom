@@ -4,9 +4,9 @@ return [
     'layout' => 'layouts.design_main',
     
     'headerCss' => [
-       // 'boot',
+        'boot',
       //  'response',
-       // 'font',
+        'font',
         'owl_c',
         'owl_t',
         'ani',
