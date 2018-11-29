@@ -6,7 +6,7 @@ return [
     'headerCss' => [
        // 'boot',
       //  'response',
-        'font',
+      //  'font',
         'owl_c',
         'owl_t',
         'ani',
